@@ -1,0 +1,14 @@
+{
+  "name": "language-mql",
+  "main": "./lib/language-mql",
+  "version": "0.0.0",
+  "description": "Syntax highlighting of MQL files in Atom.",
+  "activationEvents": ["language-mql:toggle"],
+  "repository": "https://github.com/atom/language-mql",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}

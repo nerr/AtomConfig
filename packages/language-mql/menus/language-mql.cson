@@ -1,0 +1,16 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  '.overlayer':
+      'Enable language-mql': 'language-mql:toggle'
+
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'language-mql'
+      'submenu': [
+        { 'label': 'Toggle', 'command': 'language-mql:toggle' }
+      ]
+    ]
+  }
+]
