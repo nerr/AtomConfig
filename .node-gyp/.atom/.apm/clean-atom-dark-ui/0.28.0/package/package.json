@@ -1,0 +1,11 @@
+{
+  "name": "clean-atom-dark-ui",
+  "theme": "ui",
+  "version": "0.28.0",
+  "description": "Cleaner and simpler interface, derived from the default dark theme for atom",
+  "license": "MIT",
+  "repository": "https://github.com/Tehnix/clean-atom-dark-ui",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
